@@ -1,5 +1,7 @@
 # UNB 프론트엔드
 
+백엔드 링크 : https://github.com/mechauk418/UNB_Back
+
 # 목차
 
 0. **개발 목적**
